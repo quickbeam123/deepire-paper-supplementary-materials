@@ -1,5 +1,5 @@
 # deepire-paper-supplementary-materials
-Supplementary files accompanying the paper New Techniques that Improve ENIGMA-style Clause Selection Guidance (M. Suda) submitted to CADE2021
+Supplementary files accompanying the paper Improving ENIGMA-Style Clause Selection While Learning From History (M. Suda) accepted to CADE2021
 
 1) The list of SMT-LIB files used in our experiments can be found in
 selectedSMTLIBproblems.txt
